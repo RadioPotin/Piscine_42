@@ -1,0 +1,1 @@
+find ./* -iname "*~" -print -exec rm {} + -o -iname "#*#" -print -exec rm {} +

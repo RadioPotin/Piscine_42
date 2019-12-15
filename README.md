@@ -1,2 +1,3 @@
 # Piscine_42
-Piscine_C
+
+What's left of the Piscine that got me into 42 in September 2018.
